@@ -1,0 +1,46 @@
+{
+  "name": "quisrepellat",
+  "version": "1.0.0",
+  "description": "Market Making Strategy for Saturn Network DEX",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "blockchain",
+    "numquam",
+    "quam",
+    "ethereum",
+    "ethereum classic",
+    "numquam",
+    "exchange",
+    "trading",
+    "dolorem",
+    "adipisci",
+    "market-making",
+    "strategy",
+    "token",
+    "qui",
+    "erc223",
+    "itaque",
+    "et",
+    "enim"
+  ],
+  "license": "LGPL-3.0",
+  "author": "HaleyWaelchi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DillanKling/quisrepellat.git"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.119",
+    "@types/node": "^11.12.2",
+    "@types/chalk": "^2.2.0",
+    "typescript": "^3.4"
+  },
+  "dependencies": {
+    "@saturnnetwork/saturn.js": "^0.1.3",
+    "bignumber.js": "^8.1.1",
+    "chalk": "^2.4.2",
+    "ethers": "^4.0.27",
+    "lodash": "^4.17.11"
+  }
+}
